@@ -2,5 +2,9 @@
   "3.0.6-beta": {
     "version": "3.0.6-beta",
     "url": "https://github.com/Thuanhazzz/HH3D/releases/download/v3.0.6-beta/v3.0.6-beta.zip"
-  }
+  },
+  "3.0.7-beta": {
+    "version": "3.0.7-beta",
+    "url": "https://github.com/Thuanhazzz/HH3D/releases/download/v3.0.7_beta/v3.0.7_beta.zip"
+  }  
 }
