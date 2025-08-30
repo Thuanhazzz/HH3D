@@ -1,0 +1,33 @@
+name: Update versions.json
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  update-versions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update versions.json
+        run: |
+          TAG=${GITHUB_REF##*/}
+          URL=$(jq -r '.assets[0].browser_download_url' <(curl -s https://api.github.com/repos/${GITHUB_REPOSITORY}/releases/tags/$TAG))
+          
+          FILE=versions.json
+          if [ ! -f "$FILE" ]; then
+            echo "{}" > $FILE
+          fi
+
+          cat $FILE | jq --arg v "$TAG" --arg url "$URL" '. + {($v): {version:$v, url:$url}}' > tmp.json
+          mv tmp.json $FILE
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add versions.json
+          git commit -m "Update versions.json for $GITHUB_REF"
+          git push
