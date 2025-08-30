@@ -54,4 +54,5 @@ jobs:
           git config user.email github-actions@github.com
           git add versions.json
           git commit -m "Update versions.json for $GITHUB_REF" || echo "No changes to commit"
-          git push origin main
+          git push origin HEAD:main
+
