@@ -8,18 +8,23 @@ jobs:
   update-versions:
     runs-on: ubuntu-latest
     steps:
+      # 1️⃣ Checkout repo
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
           persist-credentials: true
           fetch-depth: 0
 
+      # 2️⃣ Cập nhật versions.json
       - name: Update versions.json
         run: |
-          TAG=${GITHUB_REF##*/}               
+          # Lấy tag release
+          TAG=${GITHUB_REF##*/}
           echo "Release tag: $TAG"
 
-          URL=$(jq -r '.assets[0].browser_download_url' <(curl -s https://api.github.com/repos/${GITHUB_REPOSITORY}/releases/tags/$TAG))
+          # Lấy asset đầu tiên của release
+          URL=$(curl -s https://api.github.com/repos/${GITHUB_REPOSITORY}/releases/tags/$TAG \
+            | jq -r '.assets[0].browser_download_url')
           echo "Asset URL: $URL"
 
           FILE=versions.json
@@ -27,9 +32,14 @@ jobs:
             echo "{}" > $FILE
           fi
 
+          # Cập nhật versions.json
           cat "$FILE" | jq --arg v "$TAG" --arg url "$URL" '. + {($v): {version:$v, url:$url}}' > tmp.json
           mv tmp.json $FILE
 
+          echo "Updated versions.json:"
+          cat "$FILE"
+
+      # 3️⃣ Commit & push về main
       - name: Commit & push
         run: |
           git config user.name github-actions
