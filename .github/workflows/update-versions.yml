@@ -8,32 +8,50 @@ jobs:
   update-versions:
     runs-on: ubuntu-latest
     steps:
+      # 1️⃣ Checkout branch main, giữ credentials
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
           persist-credentials: true
           fetch-depth: 0
+          ref: main  # checkout branch main để push dễ dàng
 
+      # 2️⃣ Update versions.json
       - name: Update versions.json
         run: |
-          TAG=${GITHUB_REF##*/}
+          TAG=${GITHUB_REF##*/}               # lấy tag release
           echo "Release tag: $TAG"
-          
-          URL=$(jq -r '.assets[0].browser_download_url' <(curl -s https://api.github.com/repos/${GITHUB_REPOSITORY}/releases/tags/$TAG))
-          echo "Asset URL: $URL"
-          
+
+          # Lấy tất cả asset browser_download_url (nếu có nhiều asset)
+          ASSET_URLS=$(curl -s https://api.github.com/repos/${GITHUB_REPOSITORY}/releases/tags/$TAG \
+            | jq -r '.assets[].browser_download_url')
+
+          echo "Asset URLs:"
+          echo "$ASSET_URLS"
+
           FILE=versions.json
           if [ ! -f "$FILE" ]; then
             echo "{}" > $FILE
           fi
 
-          cat $FILE | jq --arg v "$TAG" --arg url "$URL" '. + {($v): {version:$v, url:$url}}' > tmp.json
-          mv tmp.json $FILE
+          # Thêm từng asset vào versions.json
+          TMP_FILE=$(mktemp)
+          cp "$FILE" "$TMP_FILE"
 
+          # nếu chỉ muốn lấy asset đầu tiên:
+          FIRST_URL=$(echo "$ASSET_URLS" | head -n1)
+
+          cat "$TMP_FILE" | jq --arg v "$TAG" --arg url "$FIRST_URL" \
+            '. + {($v): {version:$v, url:$url}}' > "$FILE"
+
+          echo "Updated versions.json:"
+          cat "$FILE"
+
+      # 3️⃣ Commit & push về main
       - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add versions.json
           git commit -m "Update versions.json for $GITHUB_REF" || echo "No changes to commit"
-          git push origin HEAD:main
+          git push origin main
