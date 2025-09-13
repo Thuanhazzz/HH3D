@@ -1,3 +1,10 @@
 {
-  
+  "fixed": [
+    "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần",
+    "⚠️ Nếu không thể login thì thử mở tab web và login thủ công",
+    "⚠️ Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước"
+  ],
+  "tips": [   
+    "💡 Nếu nhiều acc thì nên chạy thành từng nhóm nhỏ, tránh chạy nhiều acc dồn dập sẽ dễ bị báo warning"    
+  ]
 }
