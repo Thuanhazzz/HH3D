@@ -8,6 +8,8 @@
     { "type": "info", "msg": "💡 Nếu web đổi tên miền thì phải lưu lại tên miền mới thì mới chạy được." },
     { "type": "info", "msg": "💡 Có cài đặt từng nhóm riêng và cài đặt chung cho tất cả, hãy chọn cài đặt cho phù hợp." },
     { "type": "info", "msg": "💡 Nếu chỉ cần chạy một số task nào đó, thì hãy vào cài đặt nhóm và chỉ bật task cần chạy." },
+    { "type": "info", "msg": "💡 Chuột trái vào avatar hoặc tên acc thì cuộn sang trái, chuột trái vào trạng thái thì cuộn sang phải." },
+    { "type": "info", "msg": "💡 Nút xóa session sẽ xóa toàn bộ dữ liệu của web như cookies, localstorage, caches, indexdb, serviceworkers ở trên web và sẽ bị đăng xuất." },
     { "type": "warning", "msg": "💡 Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước (cạnh nút X dóng cửa sổ)." }
   ]
 }
