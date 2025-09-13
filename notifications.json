@@ -1,10 +1,11 @@
 {
   "fixed": [
-    "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần",
-    "⚠️ Nếu không thể login thì thử mở tab web và login thủ công",
-    "⚠️ Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước"
+    { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần" },
+    { "type": "warning", "msg": "⚠️ Nếu không thể login thì thử mở tab web và login thủ công" },
+    { "type": "warning", "msg": "⚠️ Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước" }
   ],
-  "tips": [   
-    "💡 Nếu nhiều acc thì nên chạy thành từng nhóm nhỏ, tránh chạy nhiều acc dồn dập sẽ dễ bị báo warning"    
+  "tips": [
+    { "type": "warning", "msg": "💡 Nhiều acc thì nên tách thành từng nhóm và chạy theo từng nhóm, không nên chạy dồn dập tất cả sẽ gặp nhiều lỗi warning." },
+    { "type": "warning", "msg": "💡 Nếu web đổi tên miền thì phải lưu lại tên miền mới thì mới chạy được." }
   ]
 }
