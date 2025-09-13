@@ -1,11 +1,13 @@
 {
   "fixed": [
     { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần" },
-    { "type": "warning", "msg": "⚠️ Nếu không thể login thì thử mở tab web và login thủ công" }    
+    { "type": "warning", "msg": "⚠️ Nếu không thể đăng nhập tự động thì hãy ấn nút đăng nhập thủ công" }    
   ],
   "tips": [
     { "type": "warning", "msg": "💡 Nhiều acc thì nên tách thành từng nhóm và chạy theo từng nhóm, không nên chạy dồn dập tất cả sẽ gặp nhiều lỗi warning." },
-    { "type": "warning", "msg": "💡 Nếu web đổi tên miền thì phải lưu lại tên miền mới thì mới chạy được." },
-    { "type": "warning", "msg": "⚠️ Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước" }
+    { "type": "info", "msg": "💡 Nếu web đổi tên miền thì phải lưu lại tên miền mới thì mới chạy được." },
+    { "type": "info", "msg": "💡 Có cài đặt từng nhóm riêng và cài đặt chung cho tất cả, hãy chọn cài đặt cho phù hợp." },
+    { "type": "info", "msg": "💡 Nếu chỉ cần chạy một số task nào đó, thì hãy vào cài đặt nhóm và chỉ bật task cần chạy." },
+    { "type": "warning", "msg": "💡 Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước (cạnh nút X dóng cửa sổ)." }
   ]
 }
