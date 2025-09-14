@@ -1,6 +1,7 @@
 {
   "fixed": [
     { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần" },
+    { "type": "info", "msg": "ℹ️ Hiện tại tên miền là https://hoathinh3d.lol" },
     { "type": "warning", "msg": "⚠️ Nếu không thể đăng nhập tự động thì hãy ấn nút đăng nhập thủ công" }    
   ],
   "tips": [
