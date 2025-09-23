@@ -1,14 +1,17 @@
 {
   "fixed": [
-    { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần.      ℹ️ Hiện tại tên miền là https://hoathinh3d.lol" },
-    { "type": "warning", "msg": "⚠️ Nếu không thể đăng nhập tự động thì hãy ấn nút đăng nhập thủ công" }    
+    { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần.      ℹ️ Hiện tại tên miền là https://hoathinh3d.gg" },
+    { "type": "warning", "msg": "⚠️ Nếu không thể đăng nhập tự động thì hãy vào web để đăng nhập thủ công." }    
   ],
   "tips": [
-    { "type": "warning", "msg": "💡 Nhiều acc thì nên tách thành từng nhóm và chạy theo từng nhóm, không nên chạy dồn dập tất cả sẽ gặp nhiều lỗi warning." },
-    { "type": "info", "msg": "💡 Nếu web đổi tên miền thì phải lưu lại tên miền mới thì mới chạy được." },
-    { "type": "info", "msg": "💡 Có cài đặt từng nhóm riêng và cài đặt chung cho tất cả, hãy chọn cài đặt cho phù hợp." },
-    { "type": "info", "msg": "💡 Nếu chỉ cần chạy một số task nào đó, thì hãy vào cài đặt nhóm và chỉ bật task cần chạy." },
+    { "type": "warning", "msg": "💡 Nếu gặp vấn đề khi chạy đồng loạt nhiều acc, thì hãy tách thành nhiều đợt và chạy theo từng nhóm." },
+    { "type": "info", "msg": "💡 Nếu web đổi tên miền, hãy lưu lại tên miền mới để tool chạy ổn định." },
+    { "type": "info", "msg": "💡 Có cài đặt từng nhóm riêng và cài đặt chung cho tất cả và cài đặt riêng từng acc, hãy chọn cài đặt cho phù hợp." },
+    { "type": "info", "msg": "💡 Nếu chỉ cần chạy một số task nào đó cho nhiều acc, thì hãy vào cài đặt nhóm và chỉ bật task cần chạy." },
+    { "type": "info", "msg": "💡 Bặt/tắt task tương ứng để chạy những task bạn cần, có bật/tắt tất cả ở 'login'." },
     { "type": "info", "msg": "💡 Chuột trái vào avatar hoặc tên acc thì cuộn sang trái, chuột trái vào trạng thái thì cuộn sang phải." },
+    { "type": "info", "msg": "💡 Chuột giữa vào task sẽ mở nhanh hoạt động tương ứng trong web HH3D." },
+    { "type": "info", "msg": "💡 Nhập CODE cho tất cả chỉ được chạy cho những acc nào đang được chạy." },
     { "type": "info", "msg": "💡 Nút xóa session sẽ xóa toàn bộ dữ liệu của web như cookies, localstorage, caches, indexdb, serviceworkers ở trên web và sẽ bị đăng xuất." },
     { "type": "warning", "msg": "💡 Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước (cạnh nút X dóng cửa sổ)." }
   ]
