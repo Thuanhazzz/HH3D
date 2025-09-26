@@ -1,7 +1,7 @@
 {
   "fixed": [
     { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần.      ℹ️ Hiện tại tên miền là https://hoathinh3d.gg" },
-    { "type": "warning", "msg": "⚠️ Bản này là bản chống cháy tạm thời, không phải bản hoàn thiện.  ℹ️ Mở web HH3D lên chạy (Không phải nút Start) đừng đóng cửa sổ nếu không sẽ dừng chạy." },
+    { "type": "warning", "msg": "⚠️ Bản này là bản chống cháy tạm thời, không phải bản hoàn thiện.  ⚠️ "MỞ WEB HH3D" lên chạy ("KHÔNG" phải nút Start) đừng đóng cửa sổ nếu không sẽ dừng chạy." },
     { "type": "warning", "msg": "⚠️ Bản hoàn thiện sẽ bỏ phần chạy nhiệm vụ trong cửa sổ web hh3d, chỉ giữ lại duyệt web đơn thuần. Dùng core mới sẽ không sử dụng CPU và RAM nhều." } 
   ],
   "tips": [
