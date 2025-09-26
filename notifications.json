@@ -1,7 +1,7 @@
 {
   "fixed": [
     { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần.      ℹ️ Hiện tại tên miền là https://hoathinh3d.gg" },
-    { "type": "warning", "msg": "⚠️ Nếu không thể đăng nhập tự động thì hãy vào web để đăng nhập thủ công." }    
+    { "type": "warning", "msg": "⚠️ Bản này là bản chống cháy, không phải bản hoàn thiện.  ℹ️ Mở web lên chạy đừng đóng cửa sổ nếu không sẽ dừng chạy acc đó." }    
   ],
   "tips": [
     { "type": "warning", "msg": "💡 Nếu gặp vấn đề khi chạy đồng loạt nhiều acc, thì hãy tách thành nhiều đợt và chạy theo từng nhóm." },
