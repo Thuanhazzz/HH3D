@@ -1,6 +1,6 @@
 {
   "fixed": [
-    { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần.      ℹ️ Hiện tại tên miền là https://hoathinh3d.gg" },
+    { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần.      ℹ️ Hiện tại tên miền là https://hoathinh3d.gg.  ℹ️ ZoomIn: Ctrl + , ZoomOut: Ctrl - , ZoomReset: Ctrl 0. " },
     { "type": "warning", "msg": "⚠️ Tạm thời backup lại bản cũ và sửa lỗi không login được.  ℹ️ Bản mới sẽ phải kiểm tra kĩ hơn trước khi cập nhật." }
   ],
   "tips": [
