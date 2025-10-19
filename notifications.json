@@ -1,7 +1,7 @@
 {
   "fixed": [
     { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần.      ℹ️ Hiện tại tên miền là https://hoathinh3d.gg.  ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0. " },
-    { "type": "warning", "msg":"ℹ️ [Chuột giữa] vào task sẽ mở web với task đó,[DOUBLE CLICK] vào task sẽ mở chi tiết thao tác ([theo dõi], [khoáng mạch]). ℹ️ [Chuột phải] vào tên hoặc Avatar để hiện chỗ thông tin và nhập CODE." }    
+    { "type": "error", "msg":"ℹ️ [Chuột giữa] vào task sẽ mở web với task đó,[DOUBLE CLICK] vào task sẽ mở chi tiết thao tác (theo dõi, khoáng mạch). ℹ️ [Chuột phải] vào tên hoặc Avatar để hiện chỗ thông tin và nhập CODE." }    
   ],
   "tips": [
     { "type": "warning", "msg": "💡 Nếu gặp vấn đề khi chạy đồng loạt nhiều acc, thì hãy tách thành nhiều đợt và chạy theo từng nhóm." },
