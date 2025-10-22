@@ -1,10 +1,10 @@
 {  
   "v3.1.6": {
-    "version": "v3.1.6 (Core cũ)",
+    "version": "v3.1.6",
     "url": "https://github.com/Thuanhazzz/HH3D/releases/download/v3.1.6/v3.1.6.zip"
   },
   "v3.2.1": {
-    "version": "v3.2.1 (Khuyên dùng)",
+    "version": "v3.2.1",
     "url": "https://github.com/Thuanhazzz/HH3D/releases/download/v3.2.1/v3.2.1.zip"
   },
   "v3.2.3": {
@@ -20,7 +20,7 @@
     "url": "https://github.com/Thuanhazzz/HH3D/releases/download/v3.2.5/v3.2.5.zip"
   },
   "v3.2.6": {
-    "version": "v3.2.6 (Khuyên dùng)",
+    "version": "v3.2.6",
     "url": "https://github.com/Thuanhazzz/HH3D/releases/download/v3.2.6/v3.2.6.zip"
   }
 }
