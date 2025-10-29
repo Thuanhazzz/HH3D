@@ -1,18 +1,22 @@
 {
   "fixed": [
-    { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần.      ℹ️ Hiện tại tên miền là https://hoathinh3d.gg.  ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0. " },
-    { "type": "error", "msg":"ℹ️ Bản mới 3.3.0 sửa nhẹ một số lỗi." }
+    { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần.      ℹ️ Hiện tại tên miền là https://hoathinh3d.gg.  ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  ℹ️ " },
+    { "type": "info", "msg":"ℹ️ Bản mới 3.3.0 sửa nhẹ một số lỗi." }
       
   ],
   "tips": [
     { "type": "warning", "msg": "💡 Nếu gặp vấn đề khi chạy đồng loạt nhiều acc, thì hãy tách thành nhiều đợt và chạy theo từng nhóm." },
-    { "type": "info", "msg": "💡 Nếu web đổi tên miền, hãy lưu lại tên miền mới để tool chạy ổn định." },
+    { "type": "info", "msg": "💡 Nếu web đổi tên miền, phải lưu lại tên miền mới thì tool mới chạy được." },
     { "type": "info", "msg": "💡 Có cài đặt từng nhóm riêng và cài đặt chung cho tất cả và cài đặt riêng từng acc, hãy chọn cài đặt cho phù hợp." },
     { "type": "info", "msg": "💡 Nếu chỉ cần chạy một số task nào đó cho nhiều acc, thì hãy vào cài đặt nhóm và chỉ bật task cần chạy." },
     { "type": "info", "msg": "💡 Bặt/tắt task tương ứng để chạy những task bạn cần, có bật/tắt tất cả ở 'login'." },
     { "type": "info", "msg": "💡 Chuột trái vào avatar hoặc tên acc thì cuộn sang trái, chuột trái vào trạng thái thì cuộn sang phải." },
     { "type": "info", "msg": "💡 Chuột giữa vào task sẽ mở nhanh hoạt động tương ứng trong web HH3D." },
-    { "type": "info", "msg": "💡 Nhập CODE cho tất cả chỉ được chạy cho những acc nào đang được chạy." },
+    { "type": "info", "msg": "💡 Nhập CODE cho tất cả sẽ gửi yêu cầu cho tất cả các acc được lưu." },
+    { "type": "info", "msg": "💡 Double click vào task nào sẽ hiển thị chi tiết của task đó." },
+    { "type": "info", "msg": "💡 Có nút chuyển đổi kiểu hiển thị 1 hàng hoặc 2 hàng, và phóng to thu nhỏ tùy theo nhu cầu" },
+    { "type": "info", "msg": "💡 Sắp xếp thứ tự acc hoặc group bằng cách kéo thả đến vị trí mới." },
+    { "type": "info", "msg": "💡 Bật thông báo đẩy khác để xem thông tin được cập nhật thời gian thực." },
     { "type": "info", "msg": "💡 Nút xóa session sẽ xóa toàn bộ dữ liệu của web như cookies, localstorage, caches, indexdb, serviceworkers ở trên web và sẽ bị đăng xuất." },
     { "type": "warning", "msg": "💡 Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước (cạnh nút X dóng cửa sổ)." }
   ]
