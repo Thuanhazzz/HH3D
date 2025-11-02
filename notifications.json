@@ -1,7 +1,7 @@
 {
   "fixed": [
     { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần.      ℹ️ Hiện tại tên miền là https://hoathinh3d.gg.  ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Sắp xếp thứ tự acc hoặc group bằng cách kéo thả đến vị trí mới. " },
-    { "type": "error", "msg":"ℹ️ Admin fix tiếp,Cách 1: tắt warp 1111, chạy bình thường nếu đã đăng nhập sẵn. Cách 2: Bật chạy tất cả cho chấm tròn login xanh rồi tải lại bản 3.1.6" }
+    { "type": "error", "msg":"ℹ️ Admin fix tiếp, Cách 1: Đăng nhập tất cả, sau đó tắt Warp 1111 sẽ chạy bình thường . Cách 2: Bật chạy tất cả cho chấm tròn login xanh rồi tải lại bản 3.1.6" }
       
   ],
   "tips": [
