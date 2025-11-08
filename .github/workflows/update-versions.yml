@@ -4,7 +4,6 @@ on:
   release:
     types: [published]
 
-# CẤP QUYỀN GHI CHO GITHUB_TOKEN
 permissions:
   contents: write
 
@@ -16,20 +15,24 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          # persist credentials để có thể push bằng GITHUB_TOKEN
           persist-credentials: true
           fetch-depth: 0
 
       - name: Update versions.json
         run: |
-          TAG=${GITHUB_REF##*/}
-          URL=$(curl -s https://api.github.com/repos/${GITHUB_REPOSITORY}/releases/tags/$TAG \
+          TAG=${GITHUB_REF##*/}       # Lấy tên tag, ví dụ "v1.0.0"
+          TAG=${TAG#v}                # Bỏ chữ "v" ở đầu nếu có → còn "1.0.0"
+
+          URL=$(curl -s https://api.github.com/repos/${GITHUB_REPOSITORY}/releases/tags/v$TAG \
             | jq -r '.assets[0].browser_download_url')
+
           FILE=versions.json
           [ ! -f "$FILE" ] && echo "{}" > $FILE
+
           jq --arg v "$TAG" --arg url "$URL" \
             '. + {($v): {version:$v, url:$url}}' \
             $FILE > tmp.json && mv tmp.json $FILE
+
           echo "Updated versions.json:" && cat $FILE
 
       - name: Commit & push
