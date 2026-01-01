@@ -1,7 +1,7 @@
 {
   "fixed": [
     { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1 để tool tự động đổi IP khi cần.      ℹ️ Hiện tại tên miền là https://hoathinh3d.li.  ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Sắp xếp thứ tự acc hoặc group bằng cách kéo thả đến vị trí mới. " },
-    { "type": "error", "msg":"ℹ️ Lưu tên miền mới: https://hoathinh3d.li  Chuột giữa vào web nhanh, chuột phải vào avatar xem thông tin và các chức năng khác (cắn đan, đổi hệ thống, đổi tên + mật khẩu), double click để hiển thị chi tiết task, chuột phải để mở menu." }      
+    { "type": "error", "msg":"ℹ️ Lưu tên miền mới: https://hoathinh3d.li . Vào Sắp xếp Task ẩn task không dùng. Chuột giữa vào web nhanh, chuột phải vào avatar xem thông tin và các chức năng khác (cắn đan, đổi hệ thống, đổi tên + mật khẩu), double click để hiển thị chi tiết task, chuột phải để mở menu." }      
   ],
   "tips": [
     { "type": "warning", "msg": "💡 Nếu gặp vấn đề khi chạy đồng loạt nhiều acc, thì hãy tách thành nhiều đợt và chạy theo từng nhóm." },
