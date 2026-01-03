@@ -1,7 +1,7 @@
 {
   "fixed": [
     { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1      ℹ️ Hiện tại tên miền là https://hoathinh3d.li.  ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Sắp xếp thứ tự acc hoặc group bằng cách kéo thả đến vị trí mới. " },
-    { "type": "info", "msg":"ℹ️ Chuột phải avatar mở thông tin, chuột giữa vào web nhanh, chuột phải mở menu, double click mở chi tiết " }      
+    { "type": "warning", "msg":"⚠️ Còn có một số lỗi, nhưng bận chưa sửa ngay được. " }      
   ],
   "tips": [
     { "type": "warning", "msg": "💡 Nếu gặp vấn đề khi chạy đồng loạt nhiều acc, thì hãy tách thành nhiều đợt và chạy theo từng nhóm." },
