@@ -1,10 +1,11 @@
 {
   "fixed": [
     { "type": "info", "msg": "ℹ️ Bật Warp 1.1.1.1      ℹ️ https://hoathinh3d.li  ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Sắp xếp thứ tự acc hoặc group bằng cách kéo thả đến vị trí mới. " },
-    { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết task. Cài đặt nhóm để ẩn/hiện buff bát quái." }      
+    { "type": "warning", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết task. Cài đặt nhóm để ẩn/hiện buff bát quái." }      
   ],
   "tips": [
     { "type": "warning", "msg": "💡 Nếu gặp vấn đề khi chạy đồng loạt nhiều acc, thì hãy tách thành nhiều đợt và chạy theo từng nhóm." },
+    { "type": "warning", "msg": "💡 Vào Cài đặt nhóm để ẩn/hiện buff bát quái." },
     { "type": "info", "msg": "💡 Nếu web đổi tên miền, phải lưu lại tên miền mới thì tool mới chạy được." },
     { "type": "warning", "msg": "💡 Ẩn task không dùng thì vào sắp xếp task để ẩn" },
     { "type": "info", "msg": "💡 Có cài đặt từng nhóm riêng và cài đặt chung cho tất cả và cài đặt riêng từng acc, hãy chọn cài đặt cho phù hợp." },
