@@ -6,6 +6,7 @@
   "tips": [
     { "type": "warning", "msg": "💡 Nếu gặp vấn đề khi chạy đồng loạt nhiều acc, thì hãy tách thành nhiều đợt và chạy theo từng nhóm." },
     { "type": "warning", "msg": "💡 Vào Cài đặt nhóm để ẩn/hiện buff bát quái." },
+    { "type": "warning", "msg": "💡 Nếu thấy quá nhiều cảnh báo vàng báo lỗi chạy lại thì hãy khởi động lại tool và bấm đổi IP rồi mới bấm chạy tiếp." },
     { "type": "info", "msg": "💡 Nếu web đổi tên miền, phải lưu lại tên miền mới thì tool mới chạy được." },
     { "type": "warning", "msg": "💡 Ẩn task không dùng thì vào sắp xếp task để ẩn" },
     { "type": "info", "msg": "💡 Có cài đặt từng nhóm riêng và cài đặt chung cho tất cả và cài đặt riêng từng acc, hãy chọn cài đặt cho phù hợp." },
