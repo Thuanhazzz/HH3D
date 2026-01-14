@@ -1,6 +1,6 @@
 {
   "fixed": [
-    { "type": "error", "msg":"❌ Tải lại bản 3.4.7 . Chạy từng nhóm nhỏ hoặc cài hẹn giờ từng nhóm. Cài đặt Hiệu Suất giảm request, tăng độ trễ. Nút đổi IP " },
+    { "type": "error", "msg":"❌ Tải lại bản 3.4.7 . Chạy từng nhóm nhỏ hoặc cài hẹn giờ từng nhóm. Cài đặt Hiệu Suất giảm request, tăng độ trễ. Nút đổi IP. chạy 1 lần < 10 acc " },
     { "type": "info", "msg": "ℹ️ https://hoathinh3d.moi ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }    
   ],
   "tips": [
