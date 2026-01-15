@@ -2,7 +2,7 @@
   "fixed": [
     { "type": "warning", "msg":"💡 Bản 3.4.7  đã sửa lại, vào cài đặt tải lại . Chạy từng nhóm nhỏ hoặc cài hẹn giờ từng nhóm. Cài đặt Hiệu Suất giảm request, tăng độ trễ (20/60/1000). Tự động đổi IP (cần thì đổi thủ công)" },
     { "type": "info", "msg": "ℹ️ https://hoathinh3d.moi ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
-    { "type": "warning", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." }      
+    { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." }      
   ],
   "tips": [
     { "type": "warning", "msg": "💡 Nếu gặp vấn đề khi chạy đồng loạt nhiều acc, thì hãy tách thành nhiều đợt và chạy theo từng nhóm." },
