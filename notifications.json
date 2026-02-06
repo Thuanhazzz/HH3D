@@ -1,9 +1,9 @@
 {
   "fixed": [
     { "type": "warning", "msg":"💡 Đã có bản mới 3.5.1 . Chạy từng nhóm nhỏ hoặc cài hẹn giờ từng nhóm. Cài đặt Hiệu Suất tùy chỉnh cho thích hợp" },
-    { "type": "info", "msg": "ℹ️ https://hoathinh3d.hot ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
+    { "type": "info", "msg": "ℹ️ https://hoathinh3d.bz ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
     { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." },
-    { "type": "warning", "msg":"💡 Lỗi check phiên bản thì tạm thời tắt warp 1111 là được. Có thể tải lại 3.5.0 nếu thấy nhiều lỗi." },
+    { "type": "error", "msg":"💡Đã đổi tên miền mới, lưu lại để chạy https://hoathinh3d.bz" },
     { "type": "warning", "msg":"💡 Đã sửa lại 3.5.0. Vào Cài đặt > Cấu Hình > Kiểm tra > 3.5.0 để tải lại nếu cần." }
   ],
   "tips": [
