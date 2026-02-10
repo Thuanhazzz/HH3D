@@ -1,6 +1,6 @@
 {
   "fixed": [
-    { "type": "warning", "msg":"💡 Đã có bản mới 3.5.2 . Chạy từng nhóm nhỏ hoặc cài hẹn giờ từng nhóm. Cài đặt Hiệu Suất tùy chỉnh cho thích hợp. Nếu lỗi có thể tải bản cũ để chạy. Bản mới hiện nhiều cảnh báo vàng nhưng lúc sau sẽ hết, không phải lỗi nghiêm trọng ." },
+    { "type": "warning", "msg":"💡 Bản mới 3.5.3  Đã sửa lại tốc độ chạy của các task... . Chạy từng nhóm nhỏ hoặc cài hẹn giờ từng nhóm. Cài đặt Hiệu Suất tùy chỉnh cho thích hợp. Nếu lỗi có thể tải bản cũ để chạy." },
     { "type": "info", "msg": "ℹ️ https://hoathinh3d.to ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
     { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." },
     { "type": "error", "msg":"💡 Web đẫ đổi tên miền: https://hoathinh3d.to . Lưu lại mới chạy được." }
