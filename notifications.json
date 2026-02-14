@@ -4,6 +4,7 @@
     { "type": "info", "msg": "ℹ️ https://hoathinh3d.la ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
     { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." },
     { "type": "warning", "msg":"💡 Double click vào Event Tết để lưu cài đặt gieo quẻ và đổi quà." },
+    { "type": "error", "msg":"💡 Có hướng dẫn sử dụng chrome login vào acc song song với tool bằng cách share cookies. Chi tiết xem tab Tips ở thanh thông báo (chọn Show All -> Tips)" },
     { "type": "error", "msg":"💡 Tên miền đã được đổi thành https://hoathinh3d.la " }
   ],
   "tips": [
@@ -23,6 +24,9 @@
     { "type": "info", "msg": "💡 Sắp xếp thứ tự acc hoặc group bằng cách kéo thả đến vị trí mới." },
     { "type": "info", "msg": "💡 Bật thông báo đẩy khác để xem thông tin được cập nhật thời gian thực." },
     { "type": "info", "msg": "💡 Nút xóa session sẽ xóa toàn bộ dữ liệu của web như cookies, localstorage, caches, indexdb, serviceworkers ở trên web và sẽ bị đăng xuất." },
+    { "type": "info", "msg": "💡 Để login song song trên chrome cần share cookies của acc từ tool, chuột phải > cài đặt > export cookies, ở chrome cài đặt extension HH3D Cookies rồi chọn import cookies" },
+    { "type": "info", "msg": "💡 Tải extension HH3D Cookies ở link: https://www.mediafire.com/file/zt8a63euenbc1ld/HH3D_Cookies.rar/file  . Giải nén. Vào chrome://extensions -> bật dev mode -> Load unpacked (Tải tiện ích đã giải nén) -> chọn thư mục đã giải nén trước đó" },
+    { "type": "info", "msg": "💡 Bấm vào biểu tượng Extensions trên chrome để hiển thị extension -> ghim extension HH3D Cookies để dễ thao tác" },
     { "type": "warning", "msg": "💡 Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước (cạnh nút X dóng cửa sổ)." }
   ]
 }
