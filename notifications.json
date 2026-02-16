@@ -1,6 +1,6 @@
 {
   "fixed": [
-    { "type": "error", "msg":"💡 Đã sửa 3.5.5 Event Tết mua item tự động cho nhóm / tất cả. Ai cần thì tải lại bản này. Chạy từng nhóm nhỏ hoặc cài hẹn giờ từng nhóm. Cài đặt Hiệu Suất tùy chỉnh cho thích hợp. Nếu lỗi có thể tải bản cũ để chạy." },
+    { "type": "error", "msg":"💡 Server đang lỗi. Đang sửa lỗi...." },
     { "type": "info", "msg": "ℹ️ https://hoathinh3d.la ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
     { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." },
     { "type": "warning", "msg":"💡 Double click vào Event Tết để lưu cài đặt gieo quẻ và đổi quà." },
