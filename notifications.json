@@ -1,7 +1,7 @@
 {
   "fixed": [
-    { "type": "error", "msg":"💡web bị sập. chờ đợi web hoạt động trở lại." },
-    { "type": "info", "msg": "ℹ️ https://hoathinh3d.la ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
+    { "type": "error", "msg":"💡 Đã đổi tên miền https://hoathinh3d.bz " },
+    { "type": "info", "msg": "ℹ️ https://hoathinh3d.bz ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
     { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." },
     { "type": "warning", "msg":"💡 Double click vào Event Tết để lưu cài đặt gieo quẻ và đổi quà." },
     { "type": "error", "msg":"💡 Có hướng dẫn sử dụng chrome login vào acc song song với tool bằng cách share cookies. Chi tiết xem tab Tips ở thanh thông báo (chọn Show All -> Tips)" },
