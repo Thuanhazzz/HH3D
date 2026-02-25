@@ -1,6 +1,6 @@
 {
   "fixed": [
-    { "type": "error", "msg":"💡 Web đã hoạt động trở lại. " },
+    { "type": "error", "msg":"💡 Đang bảo trì để đổi tên miền... " },
     { "type": "info", "msg": "ℹ️ https://hoathinh3d.my ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
     { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." }
   ],
