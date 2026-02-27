@@ -1,6 +1,6 @@
 {
   "fixed": [
-    { "type": "error", "msg":"💡 Tạm thời dừng sử dụng tool phụ, ta lấy từ người khác và chưa kiểm tra kĩ vấn đề bảo mật. Tải lại bản cũ để sử dụng tạm, ta đang tìm cách fix vấn đề xác minh mới của web." },
+    { "type": "error", "msg":"💡 Tải lại bản 3.5.6 rồi tắt hẳn WARP 1111 đi, chạy tạm thời chờ fix xác minh mới" },
     { "type": "info", "msg": "ℹ️ https://hoathinh3d.ai ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
     { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." }
   ],
