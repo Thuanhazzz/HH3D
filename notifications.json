@@ -1,6 +1,6 @@
 {
   "fixed": [
-    { "type": "error", "msg":"💡 Tải lại bản 3.5.6 rồi tắt hẳn WARP 1111 đi, chạy tạm thời chờ fix xác minh mới" },
+    { "type": "error", "msg":"💡 Bản mới 3.5.9 thay đổi cách thực hiện nhiệm vụ, tốn chút CPU và RAM, cài đặt hiệu suất thấp gợi ý: 10-300" },
     { "type": "info", "msg": "ℹ️ https://hoathinh3d.ai ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
     { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." }
   ],
