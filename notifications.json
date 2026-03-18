@@ -24,6 +24,8 @@
     { "type": "info", "msg": "💡 Để login song song trên chrome cần share cookies của acc từ tool, chuột phải > cài đặt > export cookies, ở chrome cài đặt extension HH3D Cookies rồi chọn import cookies" },
     { "type": "info", "msg": "💡 Tải extension HH3D Cookies ở link: https://www.mediafire.com/file/zt8a63euenbc1ld/HH3D_Cookies.rar/file  . Giải nén. Vào chrome://extensions -> bật dev mode -> Load unpacked (Tải tiện ích đã giải nén) -> chọn thư mục đã giải nén trước đó" },
     { "type": "info", "msg": "💡 Bấm vào biểu tượng Extensions trên chrome để hiển thị extension -> ghim extension HH3D Cookies để dễ thao tác" },
-    { "type": "warning", "msg": "💡 Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước (cạnh nút X dóng cửa sổ)." }
+    { "type": "warning", "msg": "💡 Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước (cạnh nút X dóng cửa sổ)." },
+    { "type": "info", "msg": "💡 Cấu hình PC giá rẻ để chạy AutoCAD (2D/3D nhẹ): CPU i5 thế hệ 10+ hoặc Ryzen 5, RAM 8–16GB, SSD 256GB+, GPU tích hợp hoặc GTX 1050/RX 550." },
+    { "type": "info", "msg": "💡 Chi phí cho PC chạy AutoCAD nhẹ khoảng 7–12 triệu VNĐ (máy cũ/tân trang). Màn hình 1080p là đủ dùng cho công việc bản vẽ cơ bản." }
   ]
 }
