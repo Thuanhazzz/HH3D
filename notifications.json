@@ -1,7 +1,6 @@
 {
   "fixed": [
-    { "type": "warning", "msg":"💡 Mê Cung đang thử nghiệm chưa chạy ổn định, nhiều khi sẽ bị miss rương hoàn thành 5 ải vì lỗi token hết hạn, tự dừng khi đạt đủ 200 Huyền Tinh. Tạm thời chỉ đang làm chế độ tự động vào phòng. Double click Mê Cung sẽ hiển thị chi tiết hơn " },
-    { "type": "warning", "msg":"💡 Chuột phải avatar độ kiếp, đổi hệ thống, chúc phúc cường giả, nhập code. chuột giữa vào mê cung để vào web mê cung " },
+    { "type": "error", "msg":"💡Tạm thời dùng tool phụ, vào web bấm nút userscript -> Nhập từ URL -> https://raw.githubusercontent.com/krizk-tool/hh3d-tool/main/hh3d_krizk.js -> load lại trang" },
     { "type": "info", "msg": "ℹ️ https://hoathinh3d.co ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
     { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." }
   ],
