@@ -1,6 +1,7 @@
 {
   "fixed": [
     { "type": "error", "msg":"💡Tạm thời dùng tool phụ, vào web bấm nút userscript -> Nhập từ URL -> https://raw.githubusercontent.com/krizk-tool/hh3d-tool/main/hh3d_krizk.js -> load lại trang" },
+    { "type": "error", "msg":"💡Bản mới chưa chỉ chạy tạm thời, chưa sửa được triệt để" },
     { "type": "info", "msg": "ℹ️ https://hoathinh3d.co ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
     { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." }
   ],
