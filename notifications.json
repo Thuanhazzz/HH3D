@@ -1,7 +1,6 @@
 {
   "fixed": [
-    { "type": "error", "msg":"💡Tạm thời dùng tool phụ, vào web bấm nút userscript -> Nhập từ URL -> https://raw.githubusercontent.com/krizk-tool/hh3d-tool/main/hh3d_krizk.js -> load lại trang" },
-    { "type": "error", "msg":"💡Bản mới chưa chỉ chạy tạm thời, chưa sửa được triệt để" },
+    { "type": "error", "msg":"💡 Link bản mới nhất v3.7.0: https://www.mediafire.com/file/x84bnhpa4a3l1ka/v3.7.0.zip/file" },   
     { "type": "info", "msg": "ℹ️ https://hoathinh3d.co ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
     { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." }
   ],
@@ -25,6 +24,7 @@
     { "type": "info", "msg": "💡 Để login song song trên chrome cần share cookies của acc từ tool, chuột phải > cài đặt > export cookies, ở chrome cài đặt extension HH3D Cookies rồi chọn import cookies" },
     { "type": "info", "msg": "💡 Tải extension HH3D Cookies ở link: https://www.mediafire.com/file/zt8a63euenbc1ld/HH3D_Cookies.rar/file  . Giải nén. Vào chrome://extensions -> bật dev mode -> Load unpacked (Tải tiện ích đã giải nén) -> chọn thư mục đã giải nén trước đó" },
     { "type": "info", "msg": "💡 Bấm vào biểu tượng Extensions trên chrome để hiển thị extension -> ghim extension HH3D Cookies để dễ thao tác" },
-    { "type": "warning", "msg": "💡 Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước (cạnh nút X dóng cửa sổ)." }
+    { "type": "warning", "msg": "💡 Nếu bị trắng màn hình, chỉ cần bấm nút thay đổi kích thước (cạnh nút X dóng cửa sổ)." },
+    { "type": "info", "msg": "💡 Để dùng tool phụ, vào web bấm nút userscript -> Nhập từ URL -> https://raw.githubusercontent.com/krizk-tool/hh3d-tool/main/hh3d_krizk.js -> load lại trang" }
   ]
 }
