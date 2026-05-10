@@ -86,5 +86,9 @@
   "3.6.9": {
     "version": "3.6.9",
     "url": "https://github.com/Thuanhazzz/HH3D/releases/download/v3.6.9/v3.6.9.zip"
+  },
+  "3.7.0": {
+    "version": "3.7.0",
+    "url": "https://github.com/Thuanhazzz/HH3D/releases/download/v3.7.0/v3.7.0.zip"
   }
 }
